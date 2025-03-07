@@ -1,0 +1,116 @@
+{
+    "idoPontok": [
+        {
+            "Name" : "Hétfő",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Kedd",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Szerda",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Csütörtök",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Péntek",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Szombat",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Vasárnap",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Hétfő",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Kedd",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Szerda",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Csütörtök",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Péntek",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Szombat",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        },
+        {
+            "Name" : "Vasárnap",
+            "Time" : "08:00",
+            "UserName" : "",
+            "UserTel" : "",
+            "DocName" : "Dr. Temető József",
+            "foglalt" : false
+        }
+    ]
+}
