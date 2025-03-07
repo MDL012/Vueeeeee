@@ -2,35 +2,103 @@
 
 <template>
     <h1>Naptár</h1>
-    <div>
-        <div class="row" v-for="n in naptar.idoPontok" :key="n.id">
-            <div v-if="n.Name == 'Hétfő'">
-                <p>{{ n.Name }}</p>
-                <p>{{ n.Time }}</p>
+    <div class="row">
+        <div>
+            <div v-for="n in naptar.idoPontok" :key="n.id">
+                <div class="fogcard" v-if="n.Name == 'Hétfő' && !n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
+                <div class="fogcardred" v-if="n.Name == 'Hétfő' && n.foglalt">
+                    {{ n.Name }}<br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
             </div>
-            <div v-if="n.Name == 'Kedd'">
-                <p>{{ n.Name }}</p>
-                <p>{{ n.Time }}</p>
+        </div>
+        <div>
+            <div v-for="n in naptar.idoPontok" :key="n.id">
+                <div class="fogcard" v-if="n.Name == 'Kedd' && !n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
+                <div class="fogcardred" v-if="n.Name == 'Kedd' && n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
             </div>
-            <div v-if="n.Name == 'Szerda'">
-                <p>{{ n.Name }}</p>
-                <p>{{ n.Time }}</p>
+        </div>
+        <div>
+            <div v-for="n in naptar.idoPontok" :key="n.id">
+                <div class="fogcard" v-if="n.Name == 'Szerda' && !n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
+                <div class="fogcardred" v-if="n.Name == 'Szerda' && n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
             </div>
-            <div v-if="n.Name == 'Csütörtök'">
-                <p>{{ n.Name }}</p>
-                <p>{{ n.Time }}</p>
+        </div>
+        <div>
+            <div v-for="n in naptar.idoPontok" :key="n.id">
+                <div class="fogcard" v-if="n.Name == 'Csütörtök' && !n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
+                <div class="fogcardred" v-if="n.Name == 'Csütörtök' && n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
             </div>
-            <div v-if="n.Name == 'Péntek'">
-                <p>{{ n.Name }}</p>
-                <p>{{ n.Time }}</p>
+        </div>
+        <div>
+            <div v-for="n in naptar.idoPontok" :key="n.id">
+                <div class="fogcard" v-if="n.Name == 'Péntek' && !n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
+                <div class="fogcardred" v-if="n.Name == 'Péntek' && n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
             </div>
-            <div v-if="n.Name == 'Szombat'">
-                <p>{{ n.Name }}</p>
-                <p>{{ n.Time }}</p>
+        </div>
+        <div>
+            <div v-for="n in naptar.idoPontok" :key="n.id">
+                <div class="fogcard" v-if="n.Name == 'Szombat' && !n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
+                <div class="fogcardred" v-if="n.Name == 'Szombat' && n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
             </div>
-            <div v-if="n.Name == 'Vasárnap'">
-                <p>{{ n.Name }}</p>
-                <p>{{ n.Time }}</p>
+        </div>
+        <div>
+            <div v-for="n in naptar.idoPontok" :key="n.id">
+                <div class="fogcard" v-if="n.Name == 'Vasárnap' && !n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
+                <div class="fogcardred" v-if="n.Name == 'Vasárnap' && n.foglalt">
+                    {{ n.Name }} <br>
+                    {{ n.Time }}
+                    <button>foglalás</button>
+                </div>
             </div>
         </div>
     </div>
@@ -49,6 +117,19 @@
 <style>
 .row{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+}
+.fogcard{
+    text-align: center;
+    width: 80px;
+    margin: 5px;
+    border: 1px solid black;
+}
+.fogcardred{
+    background-color: brown;
+    text-align: center;
+    width: 80px;
+    margin: 5px;
+    border: 1px solid black;
 }
 </style>

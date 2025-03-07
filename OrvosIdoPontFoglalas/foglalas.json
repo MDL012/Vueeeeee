@@ -6,7 +6,7 @@
             "UserName" : "",
             "UserTel" : "",
             "DocName" : "Dr. Temető József",
-            "foglalt" : false
+            "foglalt" : true
         },
         {
             "Name" : "Kedd",
@@ -58,7 +58,7 @@
         },
         {
             "Name" : "Hétfő",
-            "Time" : "08:00",
+            "Time" : "09:00",
             "UserName" : "",
             "UserTel" : "",
             "DocName" : "Dr. Temető József",
