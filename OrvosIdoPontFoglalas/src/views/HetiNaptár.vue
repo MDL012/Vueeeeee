@@ -8,12 +8,12 @@
                 <div class="fogcard" v-if="n.Name == 'Hétfő' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalás">
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Hétfő' && n.foglalt">
                     {{ n.Name }}<br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalt!"> 
                 </div>
             </div>
         </div>
@@ -22,12 +22,12 @@
                 <div class="fogcard" v-if="n.Name == 'Kedd' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalás"> 
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Kedd' && n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalt!"> 
                 </div>
             </div>
         </div>
@@ -36,12 +36,12 @@
                 <div class="fogcard" v-if="n.Name == 'Szerda' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalás"> 
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Szerda' && n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalt!"> 
                 </div>
             </div>
         </div>
@@ -50,12 +50,12 @@
                 <div class="fogcard" v-if="n.Name == 'Csütörtök' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalás"> 
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Csütörtök' && n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalt!"> 
                 </div>
             </div>
         </div>
@@ -64,12 +64,12 @@
                 <div class="fogcard" v-if="n.Name == 'Péntek' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalás"> 
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Péntek' && n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalt!">
                 </div>
             </div>
         </div>
@@ -78,12 +78,12 @@
                 <div class="fogcard" v-if="n.Name == 'Szombat' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalás"> 
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Szombat' && n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalt!"> 
                 </div>
             </div>
         </div>
@@ -92,12 +92,12 @@
                 <div class="fogcard" v-if="n.Name == 'Vasárnap' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalás"> 
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Vasárnap' && n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <button>foglalás</button>
+                    <input type="button" value="Foglalt!"> 
                 </div>
             </div>
         </div>
