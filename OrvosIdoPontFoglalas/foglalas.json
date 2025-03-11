@@ -1,7 +1,7 @@
 {
     "idoPontok": [
         {
-            "DoCID" : 1,
+            "DocID" : 1,
             "Name" : "Hétfő",
             "Time" : "08:00",
             "UserName" : "",
@@ -10,7 +10,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 2,
+            "DocID" : 2,
             "Name" : "Hétfő",
             "Time" : "09:00",
             "UserName" : "",
@@ -19,7 +19,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 3,
+            "DocID" : 3,
             "Name" : "Hétfő",
             "Time" : "10:00",
             "UserName" : "",
@@ -28,7 +28,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 4,
+            "DocID" : 4,
             "Name" : "Hétfő",
             "Time" : "11:00",
             "UserName" : "",
@@ -36,7 +36,7 @@
             "DocName" : "Dr. Temető József",
             "foglalt" : false
         },
-        {   "DoCID" : 5,
+        {   "DocID" : 5,
             "Name" : "Hétfő",
             "Time" : "12:00",
             "UserName" : "",
@@ -45,7 +45,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 6,
+            "DocID" : 6,
             "Name" : "Hétfő",
             "Time" : "13:00",
             "UserName" : "",
@@ -54,7 +54,7 @@
             "foglalt" : false
         },
         {   
-            "DoCID" : 7,
+            "DocID" : 7,
             "Name" : "Hétfő",
             "Time" : "14:00",
             "UserName" : "",
@@ -63,7 +63,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 8,
+            "DocID" : 8,
             "Name" : "Hétfő",
             "Time" : "15:00",
             "UserName" : "",
@@ -72,7 +72,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 9,
+            "DocID" : 9,
             "Name" : "Hétfő",
             "Time" : "16:00",
             "UserName" : "",
@@ -83,7 +83,7 @@
 
 
         {
-            "DoCID" : 10,
+            "DocID" : 10,
             "Name" : "Kedd",
             "Time" : "08:00",
             "UserName" : "",
@@ -92,7 +92,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 11,
+            "DocID" : 11,
             "Name" : "Kedd",
             "Time" : "09:00",
             "UserName" : "",
@@ -101,7 +101,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 12,
+            "DocID" : 12,
             "Name" : "Kedd",
             "Time" : "10:00",
             "UserName" : "",
@@ -110,7 +110,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 13,
+            "DocID" : 13,
             "Name" : "Kedd",
             "Time" : "11:00",
             "UserName" : "",
@@ -119,7 +119,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 14,
+            "DocID" : 14,
             "Name" : "Kedd",
             "Time" : "12:00",
             "UserName" : "",
@@ -128,7 +128,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 15,
+            "DocID" : 15,
             "Name" : "Kedd",
             "Time" : "13:00",
             "UserName" : "",
@@ -137,7 +137,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 16,
+            "DocID" : 16,
             "Name" : "Kedd",
             "Time" : "14:00",
             "UserName" : "",
@@ -146,7 +146,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 17,
+            "DocID" : 17,
             "Name" : "Kedd",
             "Time" : "15:00",
             "UserName" : "",
@@ -155,7 +155,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 18,
+            "DocID" : 18,
             "Name" : "Kedd",
             "Time" : "16:00",
             "UserName" : "",
@@ -165,7 +165,7 @@
         },
 
         {
-            "DoCID" : 19,
+            "DocID" : 19,
             "Name" : "Szerda",
             "Time" : "08:00",
             "UserName" : "",
@@ -174,7 +174,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 20,
+            "DocID" : 20,
             "Name" : "Szerda",
             "Time" : "09:00",
             "UserName" : "",
@@ -183,7 +183,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 21,
+            "DocID" : 21,
             "Name" : "Szerda",
             "Time" : "10:00",
             "UserName" : "",
@@ -192,7 +192,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 22,
+            "DocID" : 22,
             "Name" : "Szerda",
             "Time" : "11:00",
             "UserName" : "",
@@ -201,7 +201,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 23,
+            "DocID" : 23,
             "Name" : "Szerda",
             "Time" : "12:00",
             "UserName" : "",
@@ -210,7 +210,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 24,
+            "DocID" : 24,
             "Name" : "Szerda",
             "Time" : "13:00",
             "UserName" : "",
@@ -219,7 +219,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 25,
+            "DocID" : 25,
             "Name" : "Szerda",
             "Time" : "14:00",
             "UserName" : "",
@@ -228,7 +228,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 26,
+            "DocID" : 26,
             "Name" : "Szerda",
             "Time" : "15:00",
             "UserName" : "",
@@ -237,7 +237,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 27,
+            "DocID" : 27,
             "Name" : "Szerda",
             "Time" : "16:00",
             "UserName" : "",
@@ -247,7 +247,7 @@
         },
 
         {
-            "DoCID" : 28,
+            "DocID" : 28,
             "Name" : "Csütörtök",
             "Time" : "08:00",
             "UserName" : "",
@@ -256,7 +256,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 29,
+            "DocID" : 29,
             "Name" : "Csütörtök",
             "Time" : "09:00",
             "UserName" : "",
@@ -265,7 +265,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 30,
+            "DocID" : 30,
             "Name" : "Csütörtök",
             "Time" : "10:00",
             "UserName" : "",
@@ -274,7 +274,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 31,
+            "DocID" : 31,
             "Name" : "Csütörtök",
             "Time" : "11:00",
             "UserName" : "",
@@ -283,7 +283,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 32,
+            "DocID" : 32,
             "Name" : "Csütörtök",
             "Time" : "12:00",
             "UserName" : "",
@@ -292,7 +292,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 33,
+            "DocID" : 33,
             "Name" : "Csütörtök",
             "Time" : "13:00",
             "UserName" : "",
@@ -301,7 +301,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 34,
+            "DocID" : 34,
             "Name" : "Csütörtök",
             "Time" : "14:00",
             "UserName" : "",
@@ -310,7 +310,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 35,
+            "DocID" : 35,
             "Name" : "Csütörtök",
             "Time" : "15:00",
             "UserName" : "",
@@ -319,7 +319,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 35,
+            "DocID" : 35,
             "Name" : "Csütörtök",
             "Time" : "16:00",
             "UserName" : "",
@@ -329,7 +329,7 @@
         },
 
         {
-            "DoCID" : 36,
+            "DocID" : 36,
             "Name" : "Péntek",
             "Time" : "08:00",
             "UserName" : "",
@@ -338,7 +338,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 37,
+            "DocID" : 37,
             "Name" : "Péntek",
             "Time" : "09:00",
             "UserName" : "",
@@ -347,7 +347,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 38,
+            "DocID" : 38,
             "Name" : "Péntek",
             "Time" : "10:00",
             "UserName" : "",
@@ -356,7 +356,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 39,
+            "DocID" : 39,
             "Name" : "Péntek",
             "Time" : "11:00",
             "UserName" : "",
@@ -365,7 +365,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 40,
+            "DocID" : 40,
             "Name" : "Péntek",
             "Time" : "12:00",
             "UserName" : "",
@@ -374,7 +374,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 41,
+            "DocID" : 41,
             "Name" : "Péntek",
             "Time" : "13:00",
             "UserName" : "",
@@ -383,7 +383,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 42,
+            "DocID" : 42,
             "Name" : "Péntek",
             "Time" : "14:00",
             "UserName" : "",
@@ -392,7 +392,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 43,
+            "DocID" : 43,
             "Name" : "Péntek",
             "Time" : "15:00",
             "UserName" : "",
@@ -401,7 +401,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 44,
+            "DocID" : 44,
             "Name" : "Péntek",
             "Time" : "16:00",
             "UserName" : "",
@@ -411,7 +411,7 @@
         },
 
         {
-            "DoCID" : 45,
+            "DocID" : 45,
             "Name" : "Szombat",
             "Time" : "08:00",
             "UserName" : "",
@@ -420,7 +420,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 46,
+            "DocID" : 46,
             "Name" : "Szombat",
             "Time" : "09:00",
             "UserName" : "",
@@ -429,7 +429,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 47,
+            "DocID" : 47,
             "Name" : "Szombat",
             "Time" : "10:00",
             "UserName" : "",
@@ -438,7 +438,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 48,
+            "DocID" : 48,
             "Name" : "Szombat",
             "Time" : "11:00",
             "UserName" : "",
@@ -447,7 +447,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 49,
+            "DocID" : 49,
             "Name" : "Szombat",
             "Time" : "12:00",
             "UserName" : "",
@@ -456,7 +456,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 50,
+            "DocID" : 50,
             "Name" : "Szombat",
             "Time" : "13:00",
             "UserName" : "",
@@ -465,7 +465,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 51,
+            "DocID" : 51,
             "Name" : "Szombat",
             "Time" : "14:00",
             "UserName" : "",
@@ -474,7 +474,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 52,
+            "DocID" : 52,
             "Name" : "Szombat",
             "Time" : "15:00",
             "UserName" : "",
@@ -483,7 +483,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 53,
+            "DocID" : 53,
             "Name" : "Szombat",
             "Time" : "16:00",
             "UserName" : "",
@@ -493,7 +493,7 @@
         },
 
         {
-            "DoCID" : 54,
+            "DocID" : 54,
             "Name" : "Vasárnap",
             "Time" : "08:00",
             "UserName" : "",
@@ -502,7 +502,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 55,
+            "DocID" : 55,
             "Name" : "Vasárnap",
             "Time" : "09:00",
             "UserName" : "",
@@ -511,7 +511,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 56,
+            "DocID" : 56,
             "Name" : "Vasárnap",
             "Time" : "10:00",
             "UserName" : "",
@@ -520,7 +520,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 57,
+            "DocID" : 57,
             "Name" : "Vasárnap",
             "Time" : "11:00",
             "UserName" : "",
@@ -529,7 +529,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 58,
+            "DocID" : 58,
             "Name" : "Vasárnap",
             "Time" : "12:00",
             "UserName" : "",
@@ -538,7 +538,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 59,
+            "DocID" : 59,
             "Name" : "Vasárnap",
             "Time" : "13:00",
             "UserName" : "",
@@ -547,7 +547,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 60,
+            "DocID" : 60,
             "Name" : "Vasárnap",
             "Time" : "14:00",
             "UserName" : "",
@@ -556,7 +556,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 61,
+            "DocID" : 61,
             "Name" : "Vasárnap",
             "Time" : "15:00",
             "UserName" : "",
@@ -565,7 +565,7 @@
             "foglalt" : false
         },
         {
-            "DoCID" : 62,
+            "DocID" : 62,
             "Name" : "Vasárnap",
             "Time" : "16:00",
             "UserName" : "",

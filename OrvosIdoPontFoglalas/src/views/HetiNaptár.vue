@@ -8,7 +8,7 @@
                 <div class="fogcard" v-if="n.Name == 'Hétfő' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <input type="button" value="Foglalás">
+                    <button v-on:click="foglalasMetodus(n.DocID,n.Name,n.Time)">Foglalás</button>
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Hétfő' && n.foglalt">
                     {{ n.Name }}<br>
@@ -22,7 +22,7 @@
                 <div class="fogcard" v-if="n.Name == 'Kedd' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <input type="button" value="Foglalás"> 
+                    <button v-on:click="foglalasMetodus(n.DocID,n.Name,n.Time)">Foglalás</button> 
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Kedd' && n.foglalt">
                     {{ n.Name }} <br>
@@ -36,7 +36,7 @@
                 <div class="fogcard" v-if="n.Name == 'Szerda' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <input type="button" value="Foglalás"> 
+                    <button v-on:click="foglalasMetodus(n.DocID,n.Name,n.Time)">Foglalás</button>
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Szerda' && n.foglalt">
                     {{ n.Name }} <br>
@@ -50,7 +50,7 @@
                 <div class="fogcard" v-if="n.Name == 'Csütörtök' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <input type="button" value="Foglalás"> 
+                    <button v-on:click="foglalasMetodus(n.DocID,n.Name,n.Time)">Foglalás</button>
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Csütörtök' && n.foglalt">
                     {{ n.Name }} <br>
@@ -64,7 +64,7 @@
                 <div class="fogcard" v-if="n.Name == 'Péntek' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <input type="button" value="Foglalás"> 
+                    <button v-on:click="foglalasMetodus(n.DocID,n.Name,n.Time)">Foglalás</button>
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Péntek' && n.foglalt">
                     {{ n.Name }} <br>
@@ -78,7 +78,7 @@
                 <div class="fogcard" v-if="n.Name == 'Szombat' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <input type="button" value="Foglalás"> 
+                    <button v-on:click="foglalasMetodus(n.DocID,n.Name,n.Time)">Foglalás</button>
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Szombat' && n.foglalt">
                     {{ n.Name }} <br>
@@ -92,12 +92,12 @@
                 <div class="fogcard" v-if="n.Name == 'Vasárnap' && !n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <input type="button" value="Foglalás"> 
+                    <button v-on:click="foglalasMetodus(n.DocID,n.Name,n.Time)">Foglalás</button>
                 </div>
                 <div class="fogcardred" v-if="n.Name == 'Vasárnap' && n.foglalt">
                     {{ n.Name }} <br>
                     {{ n.Time }}
-                    <input type="button" value="Foglalt!"> 
+                    <button v-on:click="">Foglalt!</button>
                 </div>
             </div>
         </div>
@@ -107,11 +107,21 @@
 <script setup>
     import  {ref, onMounted} from 'vue' ;
     import {useNaptarStore} from '@/stores/naptár.js';
+import { useRouter } from 'vue-router';
 
     const naptar = useNaptarStore()
     onMounted(() => {
         naptar.loadIdoPontok()
+        naptar.IdoPontFoglalas()
     })
+
+    const router = useRouter()
+    const foglalasMetodus = (DocID,Name,Time) => {
+        naptar.foglalasok = DocID
+        naptar.foglalasokNap = Name
+        naptar.foglalasokIdo = Time
+        router.push("/about")
+    }
 </script>
 
 <style>
