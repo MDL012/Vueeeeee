@@ -112,7 +112,6 @@ import { useRouter } from 'vue-router';
     const naptar = useNaptarStore()
     onMounted(() => {
         naptar.loadIdoPontok()
-        naptar.IdoPontFoglalas()
     })
 
     const router = useRouter()

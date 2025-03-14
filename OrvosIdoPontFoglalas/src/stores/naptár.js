@@ -12,8 +12,10 @@ export const useNaptarStore = defineStore('naptar', () => {
         .then(resp => idoPontok.value = resp.data)
       }
 
-    const IdoPontFoglalas = (DocID) => {
-      let pont = idoPontok.value.find((p) => DocID == p.DocID)
+    const IdoPontFoglalas = (idoPontFoglalas) => {
+      let pont =  idoPontok.value.find((p) => idoPontFoglalas.DocID == p.DocID)
+      console.log(pont)
+      axios.put('http://localhost:3000/idoPontok/'+ pont.id, idoPontFoglalas)
     }
     return{idoPontok, foglalasok, foglalasokNap, foglalasokIdo, loadIdoPontok, IdoPontFoglalas}
 })
