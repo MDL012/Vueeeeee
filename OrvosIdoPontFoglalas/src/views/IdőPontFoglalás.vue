@@ -17,15 +17,15 @@ const tel = ref("")
 
 const saveFoglalas = () => {
     let teltemp = "";
-    console.log("Hallo!!!")
+    console.log(teltemp  + " gg")
     for(let i = 0; i< tel.length; i++){
-        console.log("Hallo!!!" + i)
+        console.log(tel + i)
         if(tel[i] != " "){
             teltemp += tel[i]
             
         }
     }
-    console.log("Hallo!!!")
+    console.log(teltemp + " gg")
     if(name != "" && teltemp.length == 9){
         let p = {
             "DocID" : naptar.foglalasok,
