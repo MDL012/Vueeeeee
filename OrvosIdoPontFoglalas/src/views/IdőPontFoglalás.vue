@@ -17,9 +17,9 @@ const tel = ref("")
 
 const saveFoglalas = () => {
     let teltemp = "";
-    console.log(teltemp  + " gg")
+    console.log("Hallo!!!")
     for(let i = 0; i< tel.length; i++){
-        console.log(tel + i)
+        console.log("Hallo!!!" + i)
         if(tel[i] != " "){
             teltemp += tel[i]
             
