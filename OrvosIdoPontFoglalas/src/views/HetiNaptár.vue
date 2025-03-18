@@ -119,7 +119,7 @@ import { useRouter } from 'vue-router';
         naptar.foglalasok = DocID
         naptar.foglalasokNap = Name
         naptar.foglalasokIdo = Time
-        router.push("/about")
+        router.push("/idoPontFog")
     }
 </script>
 

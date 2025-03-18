@@ -1,577 +1,454 @@
 {
-    "idoPontok": [
-        {
-            "DocID" : 1,
-            "Name" : "Hétfő",
-            "Time" : "08:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 2,
-            "Name" : "Hétfő",
-            "Time" : "09:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 3,
-            "Name" : "Hétfő",
-            "Time" : "10:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 4,
-            "Name" : "Hétfő",
-            "Time" : "11:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {   "DocID" : 5,
-            "Name" : "Hétfő",
-            "Time" : "12:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 6,
-            "Name" : "Hétfő",
-            "Time" : "13:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {   
-            "DocID" : 7,
-            "Name" : "Hétfő",
-            "Time" : "14:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 8,
-            "Name" : "Hétfő",
-            "Time" : "15:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 9,
-            "Name" : "Hétfő",
-            "Time" : "16:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-
-
-        {
-            "DocID" : 10,
-            "Name" : "Kedd",
-            "Time" : "08:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 11,
-            "Name" : "Kedd",
-            "Time" : "09:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 12,
-            "Name" : "Kedd",
-            "Time" : "10:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 13,
-            "Name" : "Kedd",
-            "Time" : "11:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 14,
-            "Name" : "Kedd",
-            "Time" : "12:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 15,
-            "Name" : "Kedd",
-            "Time" : "13:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 16,
-            "Name" : "Kedd",
-            "Time" : "14:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 17,
-            "Name" : "Kedd",
-            "Time" : "15:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 18,
-            "Name" : "Kedd",
-            "Time" : "16:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-
-        {
-            "DocID" : 19,
-            "Name" : "Szerda",
-            "Time" : "08:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 20,
-            "Name" : "Szerda",
-            "Time" : "09:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 21,
-            "Name" : "Szerda",
-            "Time" : "10:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 22,
-            "Name" : "Szerda",
-            "Time" : "11:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 23,
-            "Name" : "Szerda",
-            "Time" : "12:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 24,
-            "Name" : "Szerda",
-            "Time" : "13:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 25,
-            "Name" : "Szerda",
-            "Time" : "14:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 26,
-            "Name" : "Szerda",
-            "Time" : "15:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 27,
-            "Name" : "Szerda",
-            "Time" : "16:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-
-        {
-            "DocID" : 28,
-            "Name" : "Csütörtök",
-            "Time" : "08:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 29,
-            "Name" : "Csütörtök",
-            "Time" : "09:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 30,
-            "Name" : "Csütörtök",
-            "Time" : "10:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 31,
-            "Name" : "Csütörtök",
-            "Time" : "11:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 32,
-            "Name" : "Csütörtök",
-            "Time" : "12:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 33,
-            "Name" : "Csütörtök",
-            "Time" : "13:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 34,
-            "Name" : "Csütörtök",
-            "Time" : "14:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 35,
-            "Name" : "Csütörtök",
-            "Time" : "15:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 35,
-            "Name" : "Csütörtök",
-            "Time" : "16:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-
-        {
-            "DocID" : 36,
-            "Name" : "Péntek",
-            "Time" : "08:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 37,
-            "Name" : "Péntek",
-            "Time" : "09:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 38,
-            "Name" : "Péntek",
-            "Time" : "10:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 39,
-            "Name" : "Péntek",
-            "Time" : "11:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 40,
-            "Name" : "Péntek",
-            "Time" : "12:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 41,
-            "Name" : "Péntek",
-            "Time" : "13:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 42,
-            "Name" : "Péntek",
-            "Time" : "14:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 43,
-            "Name" : "Péntek",
-            "Time" : "15:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 44,
-            "Name" : "Péntek",
-            "Time" : "16:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-
-        {
-            "DocID" : 45,
-            "Name" : "Szombat",
-            "Time" : "08:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 46,
-            "Name" : "Szombat",
-            "Time" : "09:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 47,
-            "Name" : "Szombat",
-            "Time" : "10:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 48,
-            "Name" : "Szombat",
-            "Time" : "11:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 49,
-            "Name" : "Szombat",
-            "Time" : "12:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 50,
-            "Name" : "Szombat",
-            "Time" : "13:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 51,
-            "Name" : "Szombat",
-            "Time" : "14:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 52,
-            "Name" : "Szombat",
-            "Time" : "15:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 53,
-            "Name" : "Szombat",
-            "Time" : "16:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-
-        {
-            "DocID" : 54,
-            "Name" : "Vasárnap",
-            "Time" : "08:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 55,
-            "Name" : "Vasárnap",
-            "Time" : "09:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 56,
-            "Name" : "Vasárnap",
-            "Time" : "10:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 57,
-            "Name" : "Vasárnap",
-            "Time" : "11:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 58,
-            "Name" : "Vasárnap",
-            "Time" : "12:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 59,
-            "Name" : "Vasárnap",
-            "Time" : "13:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 60,
-            "Name" : "Vasárnap",
-            "Time" : "14:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 61,
-            "Name" : "Vasárnap",
-            "Time" : "15:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        },
-        {
-            "DocID" : 62,
-            "Name" : "Vasárnap",
-            "Time" : "16:00",
-            "UserName" : "",
-            "UserTel" : "",
-            "DocName" : "Dr. Temető József",
-            "foglalt" : false
-        }
-    ]
+  "idoPontok": [
+    {
+      "DocID": 1,
+      "Name": "Hétfő",
+      "Time": "08:00",
+      "UserName": "Élő Dániel",
+      "UserTel": "123456789",
+      "DocName": "Dr. Temető József",
+      "foglalt": true,
+      "id": "545a"
+    },
+    {
+      "DocID": 2,
+      "Name": "Hétfő",
+      "Time": "09:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "f7c5"
+    },
+    {
+      "DocID": 3,
+      "Name": "Hétfő",
+      "Time": "10:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "9557"
+    },
+    {
+      "DocID": 4,
+      "Name": "Hétfő",
+      "Time": "11:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "fb05"
+    },
+    {
+      "DocID": 5,
+      "Name": "Hétfő",
+      "Time": "12:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "7cdb"
+    },
+    {
+      "DocID": 6,
+      "Name": "Hétfő",
+      "Time": "13:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "7667"
+    },
+    {
+      "DocID": 7,
+      "Name": "Hétfő",
+      "Time": "14:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "3d4a"
+    },
+    {
+      "DocID": 8,
+      "Name": "Hétfő",
+      "Time": "15:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "ac7f"
+    },
+    {
+      "DocID": 9,
+      "Name": "Hétfő",
+      "Time": "16:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "0d00"
+    },
+    {
+      "DocID": 10,
+      "Name": "Kedd",
+      "Time": "08:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "077b"
+    },
+    {
+      "DocID": 11,
+      "Name": "Kedd",
+      "Time": "09:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "2f01"
+    },
+    {
+      "DocID": 12,
+      "Name": "Kedd",
+      "Time": "10:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "2575"
+    },
+    {
+      "DocID": 13,
+      "Name": "Kedd",
+      "Time": "11:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "5c09"
+    },
+    {
+      "DocID": 14,
+      "Name": "Kedd",
+      "Time": "12:00",
+      "UserName": "Keddi Péter",
+      "UserTel": "545454445",
+      "DocName": "Dr. Temető József",
+      "foglalt": true,
+      "id": "4d65"
+    },
+    {
+      "DocID": 15,
+      "Name": "Kedd",
+      "Time": "13:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "adff"
+    },
+    {
+      "DocID": 16,
+      "Name": "Kedd",
+      "Time": "14:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "9078"
+    },
+    {
+      "DocID": 17,
+      "Name": "Kedd",
+      "Time": "15:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "447d"
+    },
+    {
+      "DocID": 18,
+      "Name": "Kedd",
+      "Time": "16:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "b0a6"
+    },
+    {
+      "DocID": 19,
+      "Name": "Szerda",
+      "Time": "08:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "0819"
+    },
+    {
+      "DocID": 20,
+      "Name": "Szerda",
+      "Time": "09:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "5936"
+    },
+    {
+      "DocID": 21,
+      "Name": "Szerda",
+      "Time": "10:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "e42b"
+    },
+    {
+      "DocID": 22,
+      "Name": "Szerda",
+      "Time": "11:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "4100"
+    },
+    {
+      "DocID": 23,
+      "Name": "Szerda",
+      "Time": "12:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "481e"
+    },
+    {
+      "DocID": 24,
+      "Name": "Szerda",
+      "Time": "13:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "81c8"
+    },
+    {
+      "DocID": 25,
+      "Name": "Szerda",
+      "Time": "14:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "5b14"
+    },
+    {
+      "DocID": 26,
+      "Name": "Szerda",
+      "Time": "15:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "2be0"
+    },
+    {
+      "DocID": 27,
+      "Name": "Szerda",
+      "Time": "16:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "6540"
+    },
+    {
+      "DocID": 28,
+      "Name": "Csütörtök",
+      "Time": "08:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "0a08"
+    },
+    {
+      "DocID": 29,
+      "Name": "Csütörtök",
+      "Time": "09:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "3aa2"
+    },
+    {
+      "DocID": 30,
+      "Name": "Csütörtök",
+      "Time": "10:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "10a9"
+    },
+    {
+      "DocID": 31,
+      "Name": "Csütörtök",
+      "Time": "11:00",
+      "UserName": "Csütörtöki Béla",
+      "UserTel": "111111111",
+      "DocName": "Dr. Temető József",
+      "foglalt": true,
+      "id": "748b"
+    },
+    {
+      "DocID": 32,
+      "Name": "Csütörtök",
+      "Time": "12:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "6b6b"
+    },
+    {
+      "DocID": 33,
+      "Name": "Csütörtök",
+      "Time": "13:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "19ac"
+    },
+    {
+      "DocID": 34,
+      "Name": "Csütörtök",
+      "Time": "14:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "465e"
+    },
+    {
+      "DocID": 35,
+      "Name": "Csütörtök",
+      "Time": "15:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "bd5b"
+    },
+    {
+      "DocID": 35,
+      "Name": "Csütörtök",
+      "Time": "16:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "06a3"
+    },
+    {
+      "DocID": 36,
+      "Name": "Péntek",
+      "Time": "08:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "130c"
+    },
+    {
+      "DocID": 37,
+      "Name": "Péntek",
+      "Time": "09:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "2a58"
+    },
+    {
+      "DocID": 38,
+      "Name": "Péntek",
+      "Time": "10:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "8346"
+    },
+    {
+      "DocID": 39,
+      "Name": "Péntek",
+      "Time": "11:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "212a"
+    },
+    {
+      "DocID": 40,
+      "Name": "Péntek",
+      "Time": "12:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "3a73"
+    },
+    {
+      "DocID": 41,
+      "Name": "Péntek",
+      "Time": "13:00",
+      "UserName": "Jason",
+      "UserTel": "666666666",
+      "DocName": "Dr. Temető József",
+      "foglalt": true,
+      "id": "6ce5"
+    },
+    {
+      "DocID": 42,
+      "Name": "Péntek",
+      "Time": "14:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "b38f"
+    },
+    {
+      "DocID": 43,
+      "Name": "Péntek",
+      "Time": "15:00",
+      "UserName": "",
+      "UserTel": "",
+      "DocName": "Dr. Temető József",
+      "foglalt": false,
+      "id": "19bb"
+    },
+    {
+      "DocID": 44,
+      "Name": "Péntek",
+      "Time": "16:00",
+      "UserName": "Vége László",
+      "UserTel": "987654321",
+      "DocName": "Dr. Temető József",
+      "foglalt": true,
+      "id": "31f9"
+    }
+  ]
 }

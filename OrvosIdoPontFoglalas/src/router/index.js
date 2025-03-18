@@ -10,8 +10,8 @@ const router = createRouter({
       component: HomeView,
     },
     {
-      path: '/about',
-      name: 'about',
+      path: '/idoPontFog',
+      name: 'idoPontFog',
       component: () => import('../views/IdőPontFoglalás.vue'),
     },
   ],
