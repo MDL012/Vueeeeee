@@ -43,7 +43,7 @@ const saveFoglalas = () => {
         naptar.IdoPontFoglalas(p)
         name.value = tel.value = "";
         toast("Foglalás Sikeres")
-        visszaANaptárba
+        visszaANaptárba()
     }
 }
 const router = useRouter()
